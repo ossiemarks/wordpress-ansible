@@ -2,7 +2,7 @@
 # [group] syntax. Hosts can join multiple groups.
 
 [production]
-server_hostname1
+webmaster
 
 [staging]
 server_hostname2
