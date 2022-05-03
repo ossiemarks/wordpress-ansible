@@ -2,7 +2,7 @@
 # [group] syntax. Hosts can join multiple groups.
 
 [webmaster]
-3.8.148.132
+13.40.222.226
 
 [staging]
 176.58.119.216
