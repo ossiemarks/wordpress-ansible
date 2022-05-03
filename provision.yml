@@ -14,4 +14,4 @@
     - php
     - mariadb
     - wp-cli
-    - ssh
+    # - ssh
