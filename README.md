@@ -6,6 +6,7 @@ This repository contains a playbook for provisioning modern hosting environments
 * SSH hardening
 * Firewall setup
 
+
 It will also install the following software:
 
 * Nginx with HTTP/2 and [improved default configs](https://github.com/A5hleyRich/wordpress-nginx)
