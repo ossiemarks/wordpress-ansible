@@ -1,5 +1,5 @@
 ---
-- hosts: all
+- hosts: webmaster
   remote_user: ubuntu
   become: yes
   vars:
