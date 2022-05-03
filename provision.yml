@@ -5,7 +5,7 @@
   vars:
     username: ossie
     password: $6$AAffwyMtUagNBeY4$auhVq6jb/cWry7SJ9pWjaPKvL.suRWwzBux470X/a7Wr08XpTiW98Bs8WTfC6rfxDR9NIiDcelcypOuiJjpJ91
-    # public_key: id_rsa.pub
+    public_key: id_rsa.pub
   roles:
     - common
     - ufw
