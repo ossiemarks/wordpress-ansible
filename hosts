@@ -3,7 +3,7 @@
 # [group] syntax. Hosts can join multiple groups.
 13.40.222.226
 [webmaster]
-13.40.222.226
+13.40.222.226 pinkloopltd.com
 
 [staging]
 176.58.119.216
