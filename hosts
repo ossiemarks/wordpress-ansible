@@ -1,8 +1,9 @@
 # Add hosts here, one per line. Additional groups can be created using
-# [group] syntax. Hosts can join multiple groups.
 
-[production]
-webmaster
+# [group] syntax. Hosts can join multiple groups.
+13.40.222.226
+[webmaster]
+13.40.222.226 pinkloopltd.com
 
 [staging]
-server_hostname2
+176.58.119.216

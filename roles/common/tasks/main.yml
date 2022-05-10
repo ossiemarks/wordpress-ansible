@@ -12,3 +12,4 @@
   - git-core
   - redis-server
   - ufw
+  - tmux
